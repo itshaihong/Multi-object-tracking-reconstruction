@@ -1,0 +1,9 @@
+*.csv
+*.gif
+*.mp4
+*.h5
+*.npy
+*.pt
+*.png
+*.glb
+*.ply
