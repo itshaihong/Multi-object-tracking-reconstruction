@@ -7,3 +7,5 @@
 *.png
 *.glb
 *.ply
+meshes/
+OMD_results/
