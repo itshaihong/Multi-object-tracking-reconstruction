@@ -28,7 +28,7 @@ if __name__ == "__main__":
     # --- 1. Define File Paths ---
     PIXEL_COORDS_PATH = "../results/exp1/pixel_coords_debug.csv"
     MAP_POINTS_PATH = "../results/exp1/frontend_map_points_log.csv"
-    SAM3D_OUTPUT_PATH = "sam3d_object_cache_ptmp_input.pt"
+    SAM3D_OUTPUT_PATH = "OMD_results/sam3d_object_cache_ptmp_input.pt"
 
     # --- 2. Load SAM3D Outputs ---
     print(f"Loading SAM3D outputs from: {SAM3D_OUTPUT_PATH}")
